@@ -13,7 +13,7 @@ As there isn't much online discussion about this helpful tool, I've created a us
 
 The repository is organised into the following sections:
 
-- **[01 User Guide](/R/01_Power_Analysis.R)**: User Guide for running the `revtools` package for titles and abstracts screening.
+- **[01 User Guide](https://github.com/stephtowch/Systematic_Review_for_Psychologists/tree/main/1.0_User_Guide_Systematic_Review)**: User Guide for running the `revtools` package for titles and abstracts screening.
 - **[02 Data Files](/R/02_SEM_Model_Assumptions.R)**: Two data files to practicing using the package mentioned in the user guide.
 
 ## :scroll: Notes
