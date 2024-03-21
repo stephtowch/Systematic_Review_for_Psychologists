@@ -15,7 +15,7 @@ The repository is organised into the following sections:
 
 - **[1.0 User Guide](/1.0_User_Guide_Systematic_Review)**: This is a user guide for using the `revtools` package for titles and abstracts screening, as well as some data wrangling.
 - **[2.0 Data Files](/2.0_Data_Files)**: There are two data .ris files to practice using the `revtools` package. One relates to EBSCO data from 'PsycTools', 'PsychArticles', 'MEDLINE' and 'Academic Search Complete' I used in my systematic review on workaholism literature between 1971-2024.
-- **[3.0 Output Files](/3.0 Output Files)**: There are two .csv output files to review what the `revtools` package produces when the titles and abstracts have been screen using the Shiny app interface.
+- **[3.0 Output Files](3.0_First_Screen_Output_Files)**: There are two .csv output files to review what the `revtools` package produces when the titles and abstracts have been screen using the Shiny app interface.
 
 ## :scroll: Notes
 
